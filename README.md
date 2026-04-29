@@ -139,7 +139,8 @@ It reflects a real-world data analytics workflow and decision-making approach.
 
 ## 📷 Dashboard Preview
 
-![Dashboard](excel_dashboard.png)
+[Dashboard](excel_dashboard.png)
+
 🔗 Tableau dashboard- https://public.tableau.com/app/profile/priya.pandey3695/viz/LINKEDINTABLEAUDASHBOARD/Dashboard1?publish=yes
 
 --
