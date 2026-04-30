@@ -111,7 +111,7 @@ It reflects a real-world data analytics workflow and decision-making approach.
 ## 📷 Dashboard Preview
 
 ### Excel Dashboard
-[![Dashboard](excel_dashboard.png)]
+https://github.com/priyapandey01-gif/Superstore-USA-Sales-Analytics-Project/blob/main/Excel%20dashboard%20superstore(1).png
 
 ### Tableau Dashboard 
 https://public.tableau.com/app/profile/priya.pandey3695/viz/LINKEDINTABLEAUDASHBOARD/Dashboard1?publish=yes
