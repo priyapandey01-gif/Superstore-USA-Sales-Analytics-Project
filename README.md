@@ -4,15 +4,10 @@
 🚀 Excel & Tableau Dashboard Completed  
 ⏳ SQL Queries and Python EDA in Progress  
 
----
-
 ## 📌 Project Overview
 This project is an end-to-end sales analytics solution built on the **Sample Superstore dataset**, analysing **$2.30M in retail sales over 4 years**.
-
 It demonstrates a complete data analyst workflow:
 **Data Cleaning → Data Modeling → Analysis → Visualization → Business Insights**
-
----
 
 ## 🎯 Business Objective
 The goal of this project is to help a retail business:
@@ -24,8 +19,6 @@ The goal of this project is to help a retail business:
 - Monitor sales trends over time  
 - Reduce product return rates  
 
----
-
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
@@ -36,8 +29,6 @@ The goal of this project is to help a retail business:
 | Tableau Public | Advanced data visualization |
 | MySQL | Analytical queries |
 | Python (Planned) | Exploratory Data Analysis |
-
----
 
 ## 📁 Dataset Summary
 
@@ -51,17 +42,13 @@ The goal of this project is to help a retail business:
 | Customer Segments | Consumer, Corporate, Home Office |
 | Categories | Technology, Furniture, Office Supplies |
 
----
-
 ## 🔧 Data Preparation
 
 - Removed duplicate records  
 - Validated absence of missing values  
 - Standardized column names  
 - Created derived fields (Year, Profit Margin)  
-- Built data model using Power Pivot  
-
----
+- Built data model using Power Pivot
 
 ## 📊 Key Metrics (DAX)
 
@@ -69,8 +56,6 @@ The goal of this project is to help a retail business:
 - **Total Profit**  
 - **Profit Margin**  
 - **Total Orders**  
-
----
 
 ## 🔍 Business Questions Addressed
 
@@ -82,8 +67,6 @@ The goal of this project is to help a retail business:
 6. What is the year-over-year sales trend?  
 7. How do sales vary monthly?  
 8. Which shipping mode is most frequently used?  
-
----
 
 ## 💡 Key Insights
 
@@ -97,8 +80,6 @@ The goal of this project is to help a retail business:
 - 🔄 Return rate of **5.91%** affects overall performance  
 - 💰 Profit Margin stands at **12.47%**
 
----
-
 ## 📈 Business Recommendations
 
 - Reduce excessive discounting on low-margin products  
@@ -107,8 +88,6 @@ The goal of this project is to help a retail business:
 - Expand strategy in underperforming regions (Central)  
 - Target Consumer segment for growth campaigns  
 - Leverage seasonal peaks (Nov–Dec) for revenue maximization  
-
----
 
 ## 🔄 Project Workflow
 
@@ -119,12 +98,6 @@ The goal of this project is to help a retail business:
 5. Visualization Enhancement using Tableau  
 6. (Upcoming) SQL Analysis & Python EDA  
 
----
-
-## 📂 Repository Structure
-
----
-
 ## 📌 Conclusion
 
 This project demonstrates practical skills in:
@@ -132,17 +105,14 @@ This project demonstrates practical skills in:
 - Data modeling and KPI development  
 - Business-oriented data analysis  
 - Dashboard design and storytelling  
-
 It reflects a real-world data analytics workflow and decision-making approach.
-
---
 
 ## 📷 Dashboard Preview
 
-[Dashboard](excel_dashboard.png)
+### Excel Dashboard
+![Dashboard](excel_dashboard.png)
 
-🔗 Tableau dashboard- https://public.tableau.com/app/profile/priya.pandey3695/viz/LINKEDINTABLEAUDASHBOARD/Dashboard1?publish=yes
-
---
+### Tableau Dashboard 
+https://public.tableau.com/app/profile/priya.pandey3695/viz/LINKEDINTABLEAUDASHBOARD/Dashboard1?publish=yes
 
 🔗 Connect with Me- www.linkedin.com/in/priya-pandey01
