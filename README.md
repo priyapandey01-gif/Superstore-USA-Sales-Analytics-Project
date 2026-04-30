@@ -6,7 +6,9 @@
 
 ## 📌 Project Overview
 This project is an end-to-end sales analytics solution built on the **Sample Superstore dataset**, analysing **$2.30M in retail sales over 4 years**.
+
 It demonstrates a complete data analyst workflow:
+
 **Data Cleaning → Data Modeling → Analysis → Visualization → Business Insights**
 
 ## 🎯 Business Objective
