@@ -9,6 +9,8 @@ in retail sales over 4 years** using Excel, Tableau and SQL.
 
 **Workflow:** Data Cleaning → Modelling → Analysis → Dashboard → Insights
 
+## 📸 SQL Query Results
+All query result screenshots are available in the repository above 
 
 ## 🛠️ Tools Used
 | Tool | Purpose |
