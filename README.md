@@ -1,7 +1,7 @@
 # 🛒 Superstore USA — Sales Analytics Project
 
 ## 🚧 Status: In Progress
-✅ Excel & Tableau Done | ⏳ SQL & Python Coming Soon
+✅ Excel, SQL & Tableau Done | ⏳ Python Coming Soon
 
 ## 📌 About
 End-to-end sales analytics project analysing **$2.30M 
@@ -17,7 +17,7 @@ in retail sales over 4 years** using Excel, Tableau and SQL.
 | Excel (Power Pivot) | DAX measures & modelling |
 | Excel Dashboard | Pivot charts & slicers |
 | Tableau Public | Interactive dashboard |
-| MySQL | Analytical queries |
+| MySQL | Analytical queries (20 Queries) |
 | Python | EDA (coming soon) |
 
 
